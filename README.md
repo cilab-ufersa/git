@@ -1,2 +1,2 @@
-# git
-Primeiros passos com git
+
+Acesse nossa wiki [aqui](https://github.com/cilab-ufersa/git-Introduction/wiki)
