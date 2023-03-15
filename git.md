@@ -1,4 +1,4 @@
-Crie um diretório usando o comando mkdir
+Crie um diretório usando o comando  `mkdir `
 
 No diretório que você criou, inicialize o Git usando `git init`
 
@@ -15,3 +15,8 @@ Confirme README.md em seu repositório usando `git commit`
 Verifique se o diretório de trabalho e a área de preparação estão limpos com `git status`
 
 Certifique-se de que seu commit foi registrado em seu repositório usando` git log`
+
+
+Exemplo: 
+
+![Figure](https://github.com/cilab-ufersa/git/blob/main/task.png)
