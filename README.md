@@ -36,6 +36,7 @@ Esse repositório contém o materiais de apoio para o estudo de Git e GitHub. De
 O site [Visualizing Git](http://git-school.github.io/visualizing-git/) é uma ferramenta interativa que ajuda a entender o funcionamento do Git. Nela, você pode visualizar o fluxo de trabalho do Git, como criar branches, fazer commits, merges e muito mais. O gif abaixo mostra um exemplo de como a ferramenta funciona.
 
 ![Imagem](https://www.darede.com.br/wp-content/uploads/2023/01/git-checkout-head.gif)
+###### Fonte: [Da Rede](https://www.darede.com.br/)
 
 
 #### 2.2.2 Git Fluence
