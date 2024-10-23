@@ -11,7 +11,7 @@
 
 ## Instalação 
 
-* Donwload Git [aqui](https://git-scm.com/downloads)
+* Download Git [aqui](https://git-scm.com/downloads)
 
 ---
 
