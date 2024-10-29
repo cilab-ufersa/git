@@ -10,7 +10,7 @@ Git Flow oferece um processo claro para gerenciar o ciclo de vida de desenvolvim
 
 O Git Flow introduz um conjunto de branches com papéis definidos, cada um usado em um contexto específico do desenvolvimento:
 
-![alt text](image-1.png)
+![Fluxo de Trabalho do Git Flow](image.png)  
 *Fonte: [Atlassian](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)*
 
 ## Branches no Git Flow
